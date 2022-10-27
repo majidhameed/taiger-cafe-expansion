@@ -70,8 +70,9 @@ Output:
 ~~~
 2019-01-18 10:15:00 order="MILLE CREPE" fulfilled=FALSE
 2019-01-18 11:30:00 order="MILLE Crepe" fulfilled=FALSE
+~~~
 Explanation:
-Lines 4-5 and 11 contain MILLE CREPE orders on 2019-01-18
-Lines 4 and 10 contain unfulfilled (fulfilled=FALSE) orders
-Arrange lines 4 and 10 in ascending order, and the last up to 3 timings are 10:15:00 and 11:30:00
+- Lines 4-5 and 11 contain MILLE CREPE orders on 2019-01-18
+- Lines 4 and 10 contain unfulfilled (fulfilled=FALSE) orders
+- Arrange lines 4 and 10 in ascending order, and the last up to 3 timings are 10:15:00 and 11:30:00
 ~~~
